@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo, aku Limit99! 👋
+
+## 🙋 Tentang Aku
+- 🌱 Sedang belajar **Blockchain & Crypto**
+- 🐍 Belajar coding dengan **Python**
+- 🇮🇩 Based in **Indonesia**
+
+## 🚀 Project
+- 🪙 [Crypto-learn-for-new](https://github.com/Limit99/Crypto-learn-for-new) — Belajar crypto dari nol
+
+## 📊 Bahasa yang Dipelajari
+
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
+
+
+
+![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown)
