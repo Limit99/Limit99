@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Project
 - 🪙 [Crypto-learn-for-new](https://github.com/Limit99/Crypto-learn-for-new) — Belajar crypto dari nol
+- 🔗 [Web3-Basics](https://github.com/Limit99/Web3-Basics) — Belajar berinteraksi dg Blockchain
 
 ## 📊 Bahasa yang Dipelajari
 
